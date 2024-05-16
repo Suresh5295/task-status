@@ -1,0 +1,30 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    display: flex;
+  align-items: center;
+  width: 400px;
+  justify-content: space-between;
+  padding: 5px;
+  border: solid black 1px;
+  margin-top: 10px;
+  background-color: gray;
+   
+}
+
+.overall{
+   
+ 
+    background-color: aquamarine;
+   
+   
+}
+.center{
+   
+   display: flex;
+   flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
